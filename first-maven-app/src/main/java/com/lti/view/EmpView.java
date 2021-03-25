@@ -7,7 +7,7 @@ public class EmpView {
 	public static void main(String[] args) {
 		Employee emp=new Employee();
 	    emp.setEmpId(1001);
-	    emp.setEmpName("ash");
+	    emp.setEmpName("ashi");
 	    System.out.println("Id:"+emp.getEmpId()+"Name:"+emp.getEmpName());
 		
 		}
